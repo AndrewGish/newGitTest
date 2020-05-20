@@ -1,4 +1,6 @@
-## Brief description
+### Brief description
 
-- [ ] Linked to Zenhub issue
-- [ ] Bench tested
+
+---
+### Steps to complete (modify list as needed)
+- [ ] Bench test
